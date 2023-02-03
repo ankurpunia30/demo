@@ -1,0 +1,8 @@
+
+.nav1{ 
+    position: relative;
+    top: auto;
+    background-color:none;
+    margin-bottom: 10%;
+    z-index: 80%;
+}
